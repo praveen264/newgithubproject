@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/newgithubproject/static/css/main.d1b05096.chunk.css",
+    "main.js": "/newgithubproject/static/js/main.347a1132.chunk.js",
+    "main.js.map": "/newgithubproject/static/js/main.347a1132.chunk.js.map",
+    "runtime-main.js": "/newgithubproject/static/js/runtime-main.a9395791.js",
+    "runtime-main.js.map": "/newgithubproject/static/js/runtime-main.a9395791.js.map",
+    "static/js/2.699cbc3a.chunk.js": "/newgithubproject/static/js/2.699cbc3a.chunk.js",
+    "static/js/2.699cbc3a.chunk.js.map": "/newgithubproject/static/js/2.699cbc3a.chunk.js.map",
+    "index.html": "/newgithubproject/index.html",
+    "precache-manifest.23c98354462c375ae3a63d7329ad1713.js": "/newgithubproject/precache-manifest.23c98354462c375ae3a63d7329ad1713.js",
+    "service-worker.js": "/newgithubproject/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/newgithubproject/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.699cbc3a.chunk.js.LICENSE": "/newgithubproject/static/js/2.699cbc3a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/newgithubproject/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9395791.js",
+    "static/js/2.699cbc3a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.347a1132.chunk.js"
+  ]
+}
